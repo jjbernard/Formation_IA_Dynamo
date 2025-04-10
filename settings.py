@@ -1,0 +1,3 @@
+MAX_RETRIES = 5
+NB = False
+OTHER_COLOR_SPACE = False
