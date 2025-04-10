@@ -1,1 +1,1 @@
-# Formation_IA_Dynamo
+# Formation IA pour la Dynamo de Chambéry
