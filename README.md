@@ -18,6 +18,10 @@ Les différents fichiers peuvent être testés avec `python fichier.py`
 
 Dans le cas case de `06 - finetuning yolo v5 small.py`, il y a une image pour tester que cela fonctionne correctement : `Image_test.jpg`.
 
+### Modèle finetuné
+
+Le modèle Yolov5 small finetuné pour la détection de détritus (voir ci-dessous) est dans le répertoire `models`.
+
 ## Zoom sur le fine tuning de Yolov5 small
 
 Le code de `06 - finetuning yolo v5 small.py` utilise une version finetunée du modèle Yolov5 Small. Pour ce faire, un dataset de *détritus* récupéré sur [Kaggle](https://www.kaggle.com/datasets/davianmartinovci/litter-detection?resource=download
